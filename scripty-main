@@ -1,4 +1,2 @@
-#include <iostream>
-#include <graphics.h>
-#include <cstdio>
-#include 
+import turtle
+t = turtle.Pen()
