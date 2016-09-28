@@ -7,5 +7,5 @@ CURRENT CONTRIBUTERS:
   - Electro
                                                                                                                                             
                                                                                                                                             
-                                                                                                                                           For any inquiries;
+For any inquiries;
 thesteamtrain@gmail.com
